@@ -21,9 +21,33 @@
 		</navPoint>
 		<navPoint id="chapter1" playOrder="2">
 			<navLabel>
-				<text>1. Chapter Title</text>
+				<text>1. Chapter One</text>
 			</navLabel>
 			<content src="Chapter1.xhtml" />
 		</navPoint>
+        <navPoint id="chapter2" playOrder="3">
+            <navLabel>
+                <text>2. Chapter Two</text>
+            </navLabel>
+            <content src="Chapter2.xhtml" />
+        </navPoint>
+        <navPoint id="chapter3" playOrder="4">
+            <navLabel>
+                <text>3. Chapter Three</text>
+            </navLabel>
+            <content src="Chapter3.xhtml" />
+        </navPoint>
+        <navPoint id="chapter4" playOrder="5">
+            <navLabel>
+                <text>4. Chapter Four</text>
+            </navLabel>
+            <content src="Chapter4.xhtml" />
+        </navPoint>
+        <navPoint id="chapter5" playOrder="6">
+            <navLabel>
+                <text>5. Chapter Five</text>
+            </navLabel>
+            <content src="Chapter5.xhtml" />
+        </navPoint>
 	</navMap>
 </ncx>

@@ -20,10 +20,18 @@
         <item id="style" href="style.css" media-type="text/css" />
         <item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" properties="nav" />
         <item id="chapter1" href="Chapter1.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter2" href="Chapter2.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter3" href="Chapter3.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter4" href="Chapter4.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter5" href="Chapter5.xhtml" media-type="application/xhtml+xml" />
     </manifest>
     <spine toc="ncx">
         <itemref idref="ref_toc" />
         <itemref idref="chapter1" />
+        <itemref idref="chapter2" />
+        <itemref idref="chapter3" />
+        <itemref idref="chapter4" />
+        <itemref idref="chapter5" />
     </spine>
     <guide>
         <reference type="toc" title="Table of Contents" href="TOC.xhtml" />
