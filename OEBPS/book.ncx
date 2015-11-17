@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en" dir="ltr">
+	<head>
+		<meta name="dtb:uid" content="https://www.fanfiction.net/s/2731239/" />
+		<meta name="dtb:depth" content="3" />
+		<meta name="dtb:totalPageCount" content="0" />
+		<meta name="dtb:maxPageNumber" content="0" />
+	</head>
+	<docTitle>
+		<text>Team 8</text>
+	</docTitle>
+	<docAuthor>
+		<text>Matthew Schocke</text>
+	</docAuthor>
+	<navMap>
+		<navPoint id="ref_toc" playOrder="1">
+			<navLabel>
+				<text>Table of Contents</text>
+			</navLabel>
+			<content src="TOC.xhtml" />
+		</navPoint>
+		<navPoint id="chapter1" playOrder="2">
+			<navLabel>
+				<text>1. Chapter Title</text>
+			</navLabel>
+			<content src="Chapter1.xhtml" />
+		</navPoint>
+	</navMap>
+</ncx>

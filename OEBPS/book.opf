@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <dc:title>Team 8</dc:title>
+        <dc:language>en</dc:language>
+        <dc:identifier id="BookId">https://www.fanfiction.net/s/2731239/</dc:identifier>
+        <dc:date>2006-01-02T00:00:00Z</dc:date>
+        <dc:description>What if Naruto had been selected for a different team? What if he'd had a different mentor? Who would guess the consequences would be so large?</dc:description>
+        <dc:publisher>FanFiction.net</dc:publisher>
+        <dc:relation>http://fanfiction.net/</dc:relation>
+        <dc:creator>Matthew Schocke</dc:creator>
+        <dc:source>https://www.fanfiction.net/s/2731239/</dc:source>
+        <meta property="dcterms:modified">2015-11-17T00:00:00Z</meta>
+    </metadata>
+    <manifest>
+        <item id="ncx" href="book.ncx" media-type="application/x-dtbncx+xml" />
+        <item id="coverimage" href="cover.jpg" media-type="image/jpeg" properties="cover-image" />
+        <item id="majordivider" href="majordivider.gif" media-type="image/gif" />
+        <item id="minordivider" href="minordivider.gif" media-type="image/gif" />
+        <item id="style" href="style.css" media-type="text/css" />
+        <item id="ref_toc" href="TOC.xhtml" media-type="application/xhtml+xml" properties="nav" />
+        <item id="chapter1" href="Chapter1.xhtml" media-type="application/xhtml+xml" />
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="ref_toc" />
+        <itemref idref="chapter1" />
+    </spine>
+    <guide>
+        <reference type="toc" title="Table of Contents" href="TOC.xhtml" />
+        <reference type="text" title="Beginning" href="Chapter1.xhtml" />
+    </guide>
+</package>
