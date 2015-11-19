@@ -49,5 +49,119 @@
             </navLabel>
             <content src="Chapter5.xhtml" />
         </navPoint>
+        <navPoint id="chapter6" playOrder="7">
+            <navLabel>
+                <text>6. Chapter Six</text>
+            </navLabel>
+            <content src="Chapter6.xhtml" />
+        </navPoint>
+        <navPoint id="chapter7" playOrder="8">
+            <navLabel>
+                <text>7. Chapter Seven</text>
+            </navLabel>
+            <content src="Chapter7.xhtml" />
+        </navPoint>
+        <navPoint id="chapter8" playOrder="9">
+            <navLabel>
+                <text>8. Chapter Eight</text>
+            </navLabel>
+            <content src="Chapter8.xhtml" />
+        </navPoint>
+        <navPoint id="chapter9" playOrder="10">
+            <navLabel>
+                <text>9. Chapter Nine</text>
+            </navLabel>
+            <content src="Chapter9.xhtml" />
+        </navPoint>
+        <navPoint id="chapter10" playOrder="11">
+            <navLabel>
+                <text>10. Chapter Ten</text>
+            </navLabel>
+            <content src="Chapter10.xhtml" />
+        </navPoint>
+        <navPoint id="chapter11" playOrder="12">
+            <navLabel>
+                <text>11. Chapter Eleven</text>
+            </navLabel>
+            <content src="Chapter11.xhtml" />
+        </navPoint>
+        <navPoint id="chapter12" playOrder="13">
+            <navLabel>
+                <text>12. Chapter Twelve</text>
+            </navLabel>
+            <content src="Chapter12.xhtml" />
+        </navPoint>
+        <navPoint id="chapter13" playOrder="14">
+            <navLabel>
+                <text>13. Chapter Thirteen</text>
+            </navLabel>
+            <content src="Chapter13.xhtml" />
+        </navPoint>
+        <navPoint id="chapter14" playOrder="15">
+            <navLabel>
+                <text>14. Chapter Fourteen</text>
+            </navLabel>
+            <content src="Chapter14.xhtml" />
+        </navPoint>
+        <navPoint id="chapter15" playOrder="16">
+            <navLabel>
+                <text>15. Chapter Fifteen</text>
+            </navLabel>
+            <content src="Chapter15.xhtml" />
+        </navPoint>
+        <navPoint id="chapter16" playOrder="17">
+            <navLabel>
+                <text>16. Chapter Sixteen</text>
+            </navLabel>
+            <content src="Chapter16.xhtml" />
+        </navPoint>
+        <navPoint id="chapter17" playOrder="18">
+            <navLabel>
+                <text>17. Chapter Seventeen</text>
+            </navLabel>
+            <content src="Chapter17.xhtml" />
+        </navPoint>
+        <navPoint id="chapter18" playOrder="19">
+            <navLabel>
+                <text>18. Chapter Eighteen</text>
+            </navLabel>
+            <content src="Chapter18.xhtml" />
+        </navPoint>
+        <navPoint id="chapter19" playOrder="20">
+            <navLabel>
+                <text>19. Chapter Nineteen</text>
+            </navLabel>
+            <content src="Chapter19.xhtml" />
+        </navPoint>
+        <navPoint id="chapter20" playOrder="21">
+            <navLabel>
+                <text>20. Chapter Twenty</text>
+            </navLabel>
+            <content src="Chapter20.xhtml" />
+        </navPoint>
+        <navPoint id="chapter21" playOrder="22">
+            <navLabel>
+                <text>21. Chapter Twenty-One</text>
+            </navLabel>
+            <content src="Chapter21.xhtml" />
+        </navPoint>
+        <navPoint id="chapter22" playOrder="23">
+            <navLabel>
+                <text>22. Chapter Twenty-Two</text>
+            </navLabel>
+            <content src="Chapter22.xhtml" />
+        </navPoint>
+        <navPoint id="chapter23" playOrder="24">
+            <navLabel>
+                <text>23. Chapter Twenty-Three</text>
+            </navLabel>
+            <content src="Chapter23.xhtml" />
+        </navPoint>
+        <navPoint id="chapter24" playOrder="25">
+            <navLabel>
+                <text>24. Chapter Twenty-Four</text>
+            </navLabel>
+            <content src="Chapter24.xhtml" />
+        </navPoint>
 	</navMap>
 </ncx>

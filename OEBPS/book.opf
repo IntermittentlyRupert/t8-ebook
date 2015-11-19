@@ -24,6 +24,25 @@
         <item id="chapter3" href="Chapter3.xhtml" media-type="application/xhtml+xml" />
         <item id="chapter4" href="Chapter4.xhtml" media-type="application/xhtml+xml" />
         <item id="chapter5" href="Chapter5.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter6" href="Chapter6.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter7" href="Chapter7.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter8" href="Chapter8.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter9" href="Chapter9.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter10" href="Chapter10.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter11" href="Chapter11.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter12" href="Chapter12.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter13" href="Chapter13.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter14" href="Chapter14.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter15" href="Chapter15.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter16" href="Chapter16.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter17" href="Chapter17.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter18" href="Chapter18.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter19" href="Chapter19.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter20" href="Chapter20.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter21" href="Chapter21.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter22" href="Chapter22.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter23" href="Chapter23.xhtml" media-type="application/xhtml+xml" />
+        <item id="chapter24" href="Chapter24.xhtml" media-type="application/xhtml+xml" />
     </manifest>
     <spine toc="ncx">
         <itemref idref="ref_toc" />
@@ -32,6 +51,25 @@
         <itemref idref="chapter3" />
         <itemref idref="chapter4" />
         <itemref idref="chapter5" />
+        <itemref idref="chapter6" />
+        <itemref idref="chapter7" />
+        <itemref idref="chapter8" />
+        <itemref idref="chapter9" />
+        <itemref idref="chapter10" />
+        <itemref idref="chapter11" />
+        <itemref idref="chapter12" />
+        <itemref idref="chapter13" />
+        <itemref idref="chapter14" />
+        <itemref idref="chapter15" />
+        <itemref idref="chapter16" />
+        <itemref idref="chapter17" />
+        <itemref idref="chapter18" />
+        <itemref idref="chapter19" />
+        <itemref idref="chapter20" />
+        <itemref idref="chapter21" />
+        <itemref idref="chapter22" />
+        <itemref idref="chapter23" />
+        <itemref idref="chapter24" />
     </spine>
     <guide>
         <reference type="toc" title="Table of Contents" href="TOC.xhtml" />
