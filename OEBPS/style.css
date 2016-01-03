@@ -29,18 +29,9 @@ nav {
     margin-top: 20%;
 }
 
-.firstheader {
-    text-align: left;
-    padding-left: 2.1em;
-}
-
-.tocimg, .yearimg {
+.tocimg {
     width: 45%;
     max-width: 593px;
-}
-
-.yeartitle {
-    margin-top: 40%;
 }
 
 .storytext {
@@ -49,6 +40,11 @@ nav {
 
 .storyparagraph {
     margin-bottom: 1em;
+}
+
+.raisedcaps {
+    font-size: 2.5em;
+    font-weight: bold;
 }
 
 .letter {
