@@ -21,145 +21,145 @@
 		</navPoint>
 		<navPoint id="chapter1" playOrder="2">
 			<navLabel>
-				<text>1. Chapter One</text>
+				<text>1. The Power of Observation</text>
 			</navLabel>
 			<content src="Chapter1.xhtml" />
 		</navPoint>
         <navPoint id="chapter2" playOrder="3">
             <navLabel>
-                <text>2. Chapter Two</text>
+                <text>2. A Painfully Early Morning</text>
             </navLabel>
             <content src="Chapter2.xhtml" />
         </navPoint>
         <navPoint id="chapter3" playOrder="4">
             <navLabel>
-                <text>3. Chapter Three</text>
+                <text>3. First Mission</text>
             </navLabel>
             <content src="Chapter3.xhtml" />
         </navPoint>
         <navPoint id="chapter4" playOrder="5">
             <navLabel>
-                <text>4. Chapter Four</text>
+                <text>4. Geniuses of Hard Work</text>
             </navLabel>
             <content src="Chapter4.xhtml" />
         </navPoint>
         <navPoint id="chapter5" playOrder="6">
             <navLabel>
-                <text>5. Chapter Five</text>
+                <text>5. Difficult Preparations</text>
             </navLabel>
             <content src="Chapter5.xhtml" />
         </navPoint>
         <navPoint id="chapter6" playOrder="7">
             <navLabel>
-                <text>6. Chapter Six</text>
+                <text>6. The Journey to the Borderlands</text>
             </navLabel>
             <content src="Chapter6.xhtml" />
         </navPoint>
         <navPoint id="chapter7" playOrder="8">
             <navLabel>
-                <text>7. Chapter Seven</text>
+                <text>7. First Blood</text>
             </navLabel>
             <content src="Chapter7.xhtml" />
         </navPoint>
         <navPoint id="chapter8" playOrder="9">
             <navLabel>
-                <text>8. Chapter Eight</text>
+                <text>8. Revelations</text>
             </navLabel>
             <content src="Chapter8.xhtml" />
         </navPoint>
         <navPoint id="chapter9" playOrder="10">
             <navLabel>
-                <text>9. Chapter Nine</text>
+                <text>9. Returning to Konoha</text>
             </navLabel>
             <content src="Chapter9.xhtml" />
         </navPoint>
         <navPoint id="chapter10" playOrder="11">
             <navLabel>
-                <text>10. Chapter Ten</text>
+                <text>10. Complex Confrontations</text>
             </navLabel>
             <content src="Chapter10.xhtml" />
         </navPoint>
         <navPoint id="chapter11" playOrder="12">
             <navLabel>
-                <text>11. Chapter Eleven</text>
+                <text>11. My Dinner with Aburame</text>
             </navLabel>
             <content src="Chapter11.xhtml" />
         </navPoint>
         <navPoint id="chapter12" playOrder="13">
             <navLabel>
-                <text>12. Chapter Twelve</text>
+                <text>12. Stress Testing</text>
             </navLabel>
             <content src="Chapter12.xhtml" />
         </navPoint>
         <navPoint id="chapter13" playOrder="14">
             <navLabel>
-                <text>13. Chapter Thirteen</text>
+                <text>13. The Forest of Death</text>
             </navLabel>
             <content src="Chapter13.xhtml" />
         </navPoint>
         <navPoint id="chapter14" playOrder="15">
             <navLabel>
-                <text>14. Chapter Fourteen</text>
+                <text>14. Preliminary Mayhem</text>
             </navLabel>
             <content src="Chapter14.xhtml" />
         </navPoint>
         <navPoint id="chapter15" playOrder="16">
             <navLabel>
-                <text>15. Chapter Fifteen</text>
+                <text>15. A Wretched Recovery</text>
             </navLabel>
             <content src="Chapter15.xhtml" />
         </navPoint>
         <navPoint id="chapter16" playOrder="17">
             <navLabel>
-                <text>16. Chapter Sixteen</text>
+                <text>16. Mortal Combat</text>
             </navLabel>
             <content src="Chapter16.xhtml" />
         </navPoint>
         <navPoint id="chapter17" playOrder="18">
             <navLabel>
-                <text>17. Chapter Seventeen</text>
+                <text>17. All That and a Bag of Chips</text>
             </navLabel>
             <content src="Chapter17.xhtml" />
         </navPoint>
         <navPoint id="chapter18" playOrder="19">
             <navLabel>
-                <text>18. Chapter Eighteen</text>
+                <text>18. A Dangerous Pursuit</text>
             </navLabel>
             <content src="Chapter18.xhtml" />
         </navPoint>
         <navPoint id="chapter19" playOrder="20">
             <navLabel>
-                <text>19. Chapter Nineteen</text>
+                <text>19. A Fearful Fallout</text>
             </navLabel>
             <content src="Chapter19.xhtml" />
         </navPoint>
         <navPoint id="chapter20" playOrder="21">
             <navLabel>
-                <text>20. Chapter Twenty</text>
+                <text>20. Deadly Consequences</text>
             </navLabel>
             <content src="Chapter20.xhtml" />
         </navPoint>
         <navPoint id="chapter21" playOrder="22">
             <navLabel>
-                <text>21. Chapter Twenty-One</text>
+                <text>21. A Pyrrhic Victory</text>
             </navLabel>
             <content src="Chapter21.xhtml" />
         </navPoint>
         <navPoint id="chapter22" playOrder="23">
             <navLabel>
-                <text>22. Chapter Twenty-Two</text>
+                <text>22. Endings and Beginnings</text>
             </navLabel>
             <content src="Chapter22.xhtml" />
         </navPoint>
         <navPoint id="chapter23" playOrder="24">
             <navLabel>
-                <text>23. Chapter Twenty-Three</text>
+                <text>23. Servants, Sparring, and Summons</text>
             </navLabel>
             <content src="Chapter23.xhtml" />
         </navPoint>
         <navPoint id="chapter24" playOrder="25">
             <navLabel>
-                <text>24. Chapter Twenty-Four</text>
+                <text>24. Reunions and Revelations</text>
             </navLabel>
             <content src="Chapter24.xhtml" />
         </navPoint>
