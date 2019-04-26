@@ -1,60 +1,61 @@
 body {
-    margin-top: 10%;
+  margin-top: 10%;
 }
 
-h1, h2 {
-    text-align: center;
+h1,
+h2 {
+  text-align: center;
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
-    margin: 0;
-    padding: 0;
-    text-indent: 1.5em;
+  margin: 0;
+  padding: 0;
+  text-indent: 1.5em;
 }
 
 nav {
-    text-align: left;
+  text-align: left;
 }
 
 .coverpage {
-    text-align: center;
-    height: 100%;
-    width: 100%;
-    margin-top: 20%;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  margin-top: 20%;
 }
 
 .tocimg {
-    width: 45%;
-    max-width: 593px;
+  width: 45%;
+  max-width: 593px;
 }
 
 .storytext {
-    margin-top: 15%;
+  margin-top: 15%;
 }
 
 .storyparagraph {
-    margin-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 .raisedcaps {
-    font-size: 2.5em;
-    font-weight: bold;
+  font-size: 2.5em;
+  font-weight: bold;
 }
 
 .letter {
-    font-style: italic;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 15%;
-    margin-right: 15%;
+  font-style: italic;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .letter p {
-    margin-bottom: 1em;
+  margin-bottom: 1em;
 }
